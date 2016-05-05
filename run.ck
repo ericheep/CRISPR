@@ -9,4 +9,4 @@ Machine.add(me.dir() + "/Puck.ck");
 // main program
 3.0::second => now;
 Machine.add(me.dir() + "/Analyze.ck");
-Machine.add(me.dir() + "/dying-light.ck");
+Machine.add(me.dir() + "/CRISPR.ck");
